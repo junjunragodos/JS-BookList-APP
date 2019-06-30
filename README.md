@@ -1,6 +1,6 @@
 # JS-BookList-APP
 
-Pure JavaScript Vanilla with NO Frameworks and NO database but using LocalStorage.
+Pure JavaScript Vanilla with NO JS Frameworks and NO database only using LocalStorage to store data.
 
 > Coding used
 
